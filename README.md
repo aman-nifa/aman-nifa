@@ -1,4 +1,4 @@
-# Hi 👋 I'm Aman Kumar Sahu
+# Hi 👋 I'm Aman Sahu
 
 ## 🚀 MERN Stack Developer
 
